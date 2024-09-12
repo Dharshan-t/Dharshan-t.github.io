@@ -436,7 +436,7 @@ footer {
 
 .branch img {
     width: 500px;                
-    height: 500x;            
+    height: 500px;            
     object-fit: cover;         
     border-radius: 5px;
     margin-bottom: 20px;
@@ -444,7 +444,7 @@ footer {
 
 .branch h3 {
     margin-bottom: 10px;
-    font-size: 30px;
+    font-size: 35px;
     color: rgb(22, 50, 91);
 }
 
